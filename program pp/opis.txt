@@ -1,0 +1,4 @@
+Program przygotowany przeze mnie posiada funkcję odczytywania danych z pliku i sortowania ich, wypisywania na konsole, istnieje też możliwość wypisania danych, w moim programie użyłem metod z programowania obiektowego, dodatkowo dodałem grę "kamień, papier, nożyce" w okienkach którą zrobiłem już wcześniej. Przepraszam również za tak późne oddanie programu.
+
+Pozdrawiam,
+Mikołaj Waliszewski
